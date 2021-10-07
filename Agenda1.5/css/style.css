@@ -1,0 +1,29 @@
+h1{
+    color: white;
+}
+
+.container{
+    margin-top: 3rem;
+}
+
+table{
+    margin-top: 3rem;
+}
+
+div #buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+tr{
+    color: white;
+}
+
+td{color: black;}
+
+img{
+    margin-right: 2rem;
+    cursor: pointer;
+}
